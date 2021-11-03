@@ -51,7 +51,7 @@ table {
 }
 .header{
   height: 100vh;
-  background: url("../image/bg.png") no-repeat center/cover;
+  background: url("../image/bgg.png") no-repeat center/cover;
 
 }
 
@@ -265,7 +265,7 @@ table {
   line-height: 62px;
   /* identical to box height */
   color: #000000;
-  padding-left: 25px;
+  padding-left: 70px;
 }
 .histore__left p {
   width: 444px;
@@ -277,8 +277,384 @@ table {
 }
 .histore__right{
 margin-left: 125px;
+  position: relative;
+
 }
-.history__right_position {
+.photo_one {
+  background: url("../image/Mask Group (1).png");
+  width: 255px;
+  height: 430px;
   position: absolute;
+  top: -40px;
+  left: 310px;
+
+
+}
+.photo_two {
+  background: url("../image/Mask Group (2).png") no-repeat;
+  width: 255px;
+  height: 399px;
+  position: absolute;
+  top: 160px;
+  left: 400px;
 }
 
+.photo_three {
+  background: url("../image/233] 1.png");
+  width: 233px;
+  height: 300px;
+  position: absolute;
+  left: 120px;
+}
+
+.numer1 {
+  font-size: 40px;
+  line-height: 54px;
+  text-align: center;
+  color: #BC9060;
+  padding-left: 60px;
+}
+
+.numer{
+  display: flex;
+
+}
+
+.numer1 h2 {
+  font-size: 20px;
+  line-height: 27px;
+text-align: center;
+  color: #000000;
+}
+
+
+.container {
+  background: url("../image/bg.png") center ;
+  margin-top: 211px;
+  height: 357px;
+  display: flex;
+}
+
+
+.container__left h1 {
+  font-size: 52px;
+  line-height: 60px;
+  color: #D67E34;
+  margin-bottom: 20px;
+
+
+
+}
+.container__left h2 {
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+   color: #FFFFFF;}
+.content {
+  padding: 80px;
+  width: 40%;
+}
+
+.container button{
+  margin: 155px 186px 155px 349px;
+  font-size: 14px;
+  line-height: 19px;
+  color: #FFFFFF;
+  padding: 0 19px;
+  background: #FF7400;
+  height: 47px;
+  border: none;
+}
+
+.top {
+  margin: 132px 558px 139px ;
+}
+
+.top h1 {
+  font-size: 54px;
+  line-height: 62px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.top span {
+  color: #D67E35;
+}
+
+.main__left {
+  background: url("../image/Mask Group (3).png") no-repeat;
+
+  margin-left: 70px;
+  width: 530px;
+  height: 474px;
+
+}
+
+.main__photo{
+  background: url("../image/Mask Group (4).png");
+  width: 210px;
+  height: 140px;
+  margin-bottom: 29px;
+}
+
+.main {
+  display: flex;
+
+}
+.mini p {
+  font-size: 26px;
+  line-height: 30px;
+  /* identical to box height */
+  color: #000000;
+
+}
+
+.line{
+
+  border: 1px solid #000000;
+  width: 204px;
+  margin-left: 7px;
+  margin-right: 11px;
+
+}
+.mini{
+  display: flex;
+  align-items: center;
+  width: 500px;
+  margin-bottom: 98px;
+  padding-top: 50px;
+}
+.main__midl {
+  margin-right: 30px;
+}
+
+.title {
+  background: url("../image/Mask Group (5).png") ;
+margin-top: 152px;
+  height: 1034px;
+
+}
+.title h1 {
+  font-size: 54px;
+  line-height: 62px;
+  /* identical to box height */
+  color: #FFFFFF;
+  padding-top: 92px;
+  padding-left: 590px;
+}
+.wilder {
+  background: #FFFFFF;
+  width: 350px;
+  height: 510px;
+}
+.title__block{
+ display: flex;
+  column-gap: 30px;
+  padding-left: 180px;
+  padding-top: 138px;
+}
+.own {
+  background: url("../image/Mask Group (6).png") no-repeat;
+  width: 300px;
+  height: 231px;
+  margin-top: 80px;
+  margin-left: 62px;
+}
+
+.wilder__own h2 {
+
+  height: 30px;font-size: 26px;
+  line-height: 30px;
+  /* identical to box height */
+  color: #000000;
+  margin-left:  80px;
+margin-top: 22px;
+
+
+}
+.wilder__own p {
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  width: 226px;
+  height: 37px;
+  color: #000000;
+  padding-left: 62px;
+  padding-top: 17px;
+
+}
+.wilder__own button {
+
+  background: #D67E34;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  width: 220px;
+  height: 50px;
+  margin-top: 20px;
+  margin-left: 65px;
+  border: none;
+  color: #FFFFFF;
+}
+.sun{
+  background: #E6E5E5;
+  height: 550px;
+}
+.sun__p {
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  width: 920px;
+  height: 52px;
+  color: #000000;
+  padding-top: 104px;
+padding-left: 260px;
+}
+.sun__photo {
+  background: url("../image/Mask Group (7).png") no-repeat;
+  width: 149px;
+  height: 100px;
+  margin-top: 75px;
+  margin-left: 656px;
+}
+.sun h3{
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+  width: 119px;
+  height: 27px;
+  color: #000000;
+margin-top: 17px;
+  margin-left: 661px;
+}
+.sun__text{
+  font-size: 20px;
+  line-height: 27px;
+  width: 86px;
+  height: 27px;
+  color: #000000;
+  margin-top: 9px;
+  margin-left: 675px;
+}
+.footer{
+  position: relative;
+}
+
+.left{
+  position: absolute;
+  width: 30px;
+  height: 100px;
+  background: #FF0000;
+  top: 115px;
+}
+.right {
+  position: absolute;
+  width: 30px;
+  height: 100px;
+  left: 1489px;
+  top: 120px;
+
+  background: #FF0000;
+}
+.footer h1 {
+  font-size: 54px;
+  line-height: 62px;
+  /* identical to box height */
+  width: 340px;
+  height: 62px;
+  color: #000000;
+  margin-top: 101px;
+  margin-left: 576px;
+}
+.footer span {
+  color: #D67E35;
+}
+.footer1 {
+  width: 555px;
+  height: 368px;
+  margin-top: 59px;
+  margin-left: 167px;
+  background: url("../image/Mask Group (8).png") no-repeat;
+}
+.footer__photos1 {
+  background: url("../image/Mask Group (9).png") no-repeat;
+  width: 411px;
+  height: 274px;
+  margin-top: 10px;
+  margin-left: 165px;
+
+}
+.footer__photos2 {
+  background: url("../image/goulash-6054124_1920 1.png") no-repeat;
+  width: 411px;
+  height: 274px;
+  margin-left: -125px;
+  margin-top: 10px;
+}
+.footer2{
+  display: flex;
+  margin-top: -70px;
+}
+.footer__photos3 {
+  background: url("../image/Mask Group (9).png") no-repeat;
+  width: 411px;
+  height: 274px;
+  position: absolute;
+  left: 730px;
+  top: 0px;
+
+}
+
+.footer__menu{
+  position: relative;
+}
+.footer__photos4 {
+  background: url("../image/goulash-6054124_1920 1.png") no-repeat;
+  position: absolute;
+  width: 411px;
+  height: 274px;
+  left: 1005px;
+  top: 0px;
+}
+.footer__photos5 {
+  background: url("../image/Mask Group (8).png") no-repeat;
+  position: absolute;
+  width: 555px;
+  height: 368px;
+  left: 730px;
+  top: 310px;
+}
+.footer__insane{
+  font-size: 54px;
+  line-height: 62px;
+  /* identical to box height */
+
+  color: #000000;
+  padding-top: 50px;
+  margin-right: 500px;
+}
+.footer__mash1 {
+  background: url("../image/Mask Group (10).png") no-repeat;
+  width: 350px;
+  height: 526px;
+}
+.footer__mash2 {
+  background: url("../image/Mask Group (11).png") no-repeat;
+  width: 350px;
+  height: 623px;
+}
+.footer__mash3 {
+  background: url("../image/image 4.png") no-repeat;
+  width: 348px;
+  height: 462px;
+}
+.footer__box {
+  display: flex;
+  column-gap: 32px;
+  margin-top: 107px;
+  margin-left: 165px;
+}
+.footer__end {
+  background: url("../image/Mask Group (12).png") ;
+  width: 100%;
+  height: 737px;
+
+}
